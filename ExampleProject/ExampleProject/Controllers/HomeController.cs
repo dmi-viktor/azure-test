@@ -10,6 +10,7 @@ namespace ExampleProject.Controllers
     {
         public ActionResult Index()
         {
+            ViewData["Message"] = "Hello!";
             return View();
         }
 
@@ -26,5 +27,13 @@ namespace ExampleProject.Controllers
 
             return View();
         }
+
+        public Decimal Multiplication(Decimal a, Decimal b)
+        {
+            Decimal c = a * b;
+
+            return c;
+        }
+
     }
 }

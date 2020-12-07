@@ -1,0 +1,4 @@
+C:\Code\azureTest\TestAzureProject\ExampleProject\XUnitTestProject\obj\Debug\netcoreapp2.1\XUnitTestProject.csprojAssemblyReference.cache
+C:\Code\azureTest\TestAzureProject\ExampleProject\XUnitTestProject\obj\Debug\netcoreapp2.1\XUnitTestProject.csproj.CoreCompileInputs.cache
+C:\Code\azureTest\TestAzureProject\ExampleProject\XUnitTestProject\obj\Debug\netcoreapp2.1\XUnitTestProject.AssemblyInfoInputs.cache
+C:\Code\azureTest\TestAzureProject\ExampleProject\XUnitTestProject\obj\Debug\netcoreapp2.1\XUnitTestProject.AssemblyInfo.cs
